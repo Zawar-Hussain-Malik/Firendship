@@ -1,5 +1,5 @@
 ﻿// Flowing friendship-themed background
-const symbols = ['ðŸ¤', 'ðŸ’™', 'âœ¨', 'ðŸŒŸ', 'ðŸ’«', 'ðŸ«¶', 'ðŸ˜Š', 'ðŸŽ‰', 'ðŸ’Œ', 'â­'];
+const symbols = ['🌸', '🌹', '🌺', '🌷', '💖', '💝', '⭐', '✨', '💫', '❀'];
 
 const floatingContainer = document.getElementById('floatingElements');
 

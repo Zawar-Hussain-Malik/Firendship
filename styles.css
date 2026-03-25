@@ -130,6 +130,13 @@ body {
     margin-bottom: 2rem;
 }
 
+.friendship-quote {
+    font-family: 'Caveat', cursive;
+    font-size: 1.5rem;
+    color: var(--rose-gold-dark);
+    margin-bottom: 0.8rem;
+}
+
 .countdown-icon {
     font-size: 3rem;
     display: block;
